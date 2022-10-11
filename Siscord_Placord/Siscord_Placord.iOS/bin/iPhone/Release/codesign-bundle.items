@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="Siscord_Placord.iOS.app">
+      <CodesignSigningKey>E0D878914CF12F35772A00BC2A5036A78AB467FB</CodesignSigningKey>
+      <CodesignEntitlements>\Users\diego\Library\Caches\Xamarin\mtbs\builds\Siscord_Placord.iOS\20e60f5cb7f375063e568c69c4577118b073d61647fab23254cb87fdf8844a7d\obj\iPhone\Release\Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>\Applications\Xcode.app\Contents\Developer\Toolchains\XcodeDefault.xctoolchain\usr\bin\codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>false</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>C:\Users\Desarrollador6\source\repos\Siscord_Placord\Siscord_Placord\Siscord_Placord.iOS</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

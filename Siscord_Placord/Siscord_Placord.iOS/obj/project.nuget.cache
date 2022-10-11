@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+2jM4Y/AgZJBcWU8a9vp8IOxB6GjwLL1U08hXfg37ioMvm9c5QBTAkcraGUAelLz94eEzNvHLNkoj0gNY79JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desarrollador6\\source\\repos\\Siscord_Placord\\Siscord_Placord\\Siscord_Placord.iOS\\Siscord_Placord.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarrollador6\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Desarrollador6\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollador6\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
